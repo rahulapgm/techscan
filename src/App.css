@@ -1,0 +1,75 @@
+body{
+  background: #212121;
+  color:white;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-title {
+  font-size:2.5em;
+  text-align:center;
+  padding:1em;
+  padding-bottom:0em;
+  font-family:'Share Tech Mono', monospace;
+}
+
+.App-Caption {
+  text-align:center;
+  font-family:'Share Tech Mono', monospace;
+}
+
+.App-intro {
+  font-size:large;
+}
+
+.Search {
+  margin-top:3%;
+  margin-left:1em; margin-right:1em;
+}
+
+.Search-bar {
+  position:relative;
+  padding-left:5em;
+  width:70%;
+}
+.Search-DropDownMenu{
+  width:15em;
+  position:relative;
+  margin-top:1.5%;
+  padding-left:5em;
+  margin-left:-5%;
+}
+.Search-Button{
+  width:8em;
+  margin-top:1.5%;
+  margin-left:2em;
+  padding-left:5em;
+}
+.searching-on{
+  text-align:center;
+  font-family:'Share Tech Mono', monospace; 
+}
+.Gallery {
+  margin:1em;
+  margin-bottom:10%;
+  position:absolute;
+}
+
+/*Profile*/
+
+.profile {
+  margin-left:2%;
+}
+
+.footer{
+  text-align:center;
+  bottom: 0;
+  position:fixed;
+  height: 20px;
+  background: #212121;
+  width:100%;
+  color:white;
+}
+
